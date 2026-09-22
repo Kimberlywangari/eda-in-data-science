@@ -9,18 +9,18 @@ within groups, not raw counts).
 The clearest signal in the data is **overtime**: employees who work overtime leave
 at a rate of 30.5%, compared to 10.4% for those who don't — roughly three times
 higher, and based on a reasonably sized comparison (416 vs. 1,054 employees)
-(Chart 7). **Marital status** shows a similarly sized gap — Single employees leave
-at 25.5%, versus 10.1% for Divorced and 12.5% for Married employees (Chart 8) — and
+. **Marital status** shows a similarly sized gap — Single employees leave
+at 25.5%, versus 10.1% for Divorced and 12.5% for Married employees — and
 this pattern held for both genders when broken down further, ruling out a
-gender-driven artifact (Chart 11).
+gender-driven artifact .
 
 **Income** also differs by attrition status: employees who left had a median
-monthly income of $3,202, against $5,204 for those who stayed (Chart 6). However,
-plotting Age against MonthlyIncome by attrition status (Chart 10) showed an almost
+monthly income of $3,202, against $5,204 for those who stayed . However,
+plotting Age against MonthlyIncome by attrition status showed an almost
 identical income-age relationship in both groups (r ≈ 0.49–0.50) — leavers were
 simply concentrated at the younger, lower-income end of that same relationship.
 **Distance from home** showed only a modest gap (9 km median for leavers vs. 7 km
-for stayers, Chart 9) — a real but weak signal by comparison.
+for stayers — a real but weak signal by comparison.
 
 ## Interpretation
 
